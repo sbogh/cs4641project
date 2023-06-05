@@ -3,11 +3,6 @@ body {
     background: white;
     font-family: "Verdana", sans-serif;
 }
-h1 {
-    text-align: left;
-    background-color: #333;
-    color: white;
-}
 /* Add a black background color to the top navigation */
 .topnav {
     float: right;
