@@ -5,7 +5,6 @@ body {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    float: right;
     background-color: #333;
     overflow: hidden;
 }
@@ -32,6 +31,6 @@ body {
     color: white;
 }
 
-.topnav-right {
+.topnav-left {
     float: left;
 }
