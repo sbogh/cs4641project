@@ -3,6 +3,9 @@ body {
     background: white;
     font-family: "Verdana", sans-serif;
 }
+h1 {
+  text-align: center;
+}
 h2 {
   text-align: center;
 }
