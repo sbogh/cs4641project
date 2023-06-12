@@ -3,6 +3,9 @@ body {
     background: white;
     font-family: "Verdana", sans-serif;
 }
+h2 {
+  text-align: center;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
