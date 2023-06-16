@@ -24,6 +24,8 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  height: auto;
+  max-width: 100%;
 }
 /* Add a black background color to the top navigation */
 .topnav {
