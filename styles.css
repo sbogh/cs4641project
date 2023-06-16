@@ -19,6 +19,13 @@ p {
   padding-right: 15%;
   line-height: 1.5;
 }
+.citations {
+  text-align: justify;
+  word-break: break-all;
+  padding-left: 15%;
+  padding-right: 15%;
+  line-height: 1.5;
+}
 .center {
   display: block;
   margin-left: auto;
