@@ -5,18 +5,18 @@ body {
 }
 h1 {
   text-align: center;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 h2 {
   text-align: center;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 p {
   text-align: justify;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 10%;
+  padding-right: 10%;
   line-height: 1.5;
 }
 .center {
