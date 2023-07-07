@@ -29,7 +29,12 @@
         <p>The first steps involve preprocessing and standardizing the dataset. Most of the features are already normalized, so the four non-normalized features (Loudness, Tempo, Duration, and Spec_Rate) will be normalized to the same [0, 1] scale. Since all features are already represented numerically, there is no need for additional feature engineering. Next, we will be looking at the variances, covariances, and normalized mutual information with the target values to better understand the relationship between the features and to determine which features can be dropped. With the remaining features selected, we plan to utilize Linear PCA to reduce our reduced feature space to a smaller number of principle components that can represent at least 80% of the variance in the data [5].</p>
         <p>The methods utilized for unsupervised learning were K-Means, GMM, and DBScan each utilized for clustering. These methods will focus on identifying patterns and groups based on the reduced feature space from our dimensionality reduction. The performance of each clustering method will be evaluated with the Folkes-Mallows measure, Normalized Mutual Information, Adjusted Rand statistic, Davies-Bouldin index, Jaccard coefficient, and Recall score.</p>
     <h2>Results and Discussion</h2>
-    <h3>Feature Selection and Dimensionality Reduction</h3>
+    <h3><center>Feature Selection and Dimensionality Reduction</center></h3>
+        <p>After all features were normalized to the same [0, 1] scale, statistical feature selection was conducted. First, the variances and covariances of all features were calculated and are shown in the figures below.</p>
+        <img src="new_infographic.jpg" alt="Infographic" class="center">
+        <figcaption><center>Figure 1: Variances of all features in the dataset.</center></figcaption>
+        <img src="new_infographic.jpg" alt="Infographic" class="center">
+        <figcaption><center>Figure 2: Covariance Matrix for all features in the dataset.</center></figcaption>
     <h2>References</h2>
         <p>
             <citations>
