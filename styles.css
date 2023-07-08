@@ -27,6 +27,8 @@ figcaption {
   text-align: center;
   padding-left: 10%;
   padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 p {
   text-align: justify;
