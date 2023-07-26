@@ -105,8 +105,16 @@ p {
     float: right;
     display: block;
   }
-  .container{
+  .container {
     max-width: 90%;
+  }
+  .citations {
+    display: block;
+    text-align: justify;
+    word-break: break-all;
+    padding-left: 30%;
+    padding-right: 30%;
+    line-height: 1.5;
   }
 }
 
