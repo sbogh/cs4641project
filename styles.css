@@ -47,6 +47,7 @@ p {
   color: #f2f2f2;
   text-align: justify;
   word-break: break-all;
+  overflow-wrap: break-word;
   padding-left: 15%;
   padding-right: 15%;
   line-height: 1.5;
