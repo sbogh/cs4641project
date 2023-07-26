@@ -63,7 +63,7 @@ p {
 .container {
   text-align: justify;
   display: block;
-  width: 65%;
+  /*width: 65%;*/
   height: auto;
   max-width: 100%;
   flex-flow: row wrap;
