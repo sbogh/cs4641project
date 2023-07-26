@@ -115,6 +115,8 @@ p {
     padding-left: 30%;
     padding-right: 30%;
     line-height: 1.5;
+    overflow-wrap: break-word;
+    word-break: break-all;
   }
 }
 
