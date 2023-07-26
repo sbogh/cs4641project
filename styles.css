@@ -43,6 +43,7 @@ p {
   line-height: 1.5;
 }
 .a {
+  color = #f2f2f2;
   text-align: justify;
   word-break: break-all;
   padding-left: 15%;
@@ -57,11 +58,7 @@ p {
   height: auto;
   max-width: 100%;
 }
-.isDisabled {
-  color: black;
-  cursor: not-allowed;
-  text-decoration: none;
-}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
