@@ -118,9 +118,6 @@ p {
     float: right;
     display: block;
   }
-  .container {
-    max-width: 90%;
-  }
   .citations {
     display: block;
     text-align: justify;
@@ -129,7 +126,6 @@ p {
     padding-right: 30%;
     line-height: 1.5;
     overflow-wrap: break-word;
-    word-break: break-all;
   }
 }
 
