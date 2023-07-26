@@ -61,6 +61,7 @@ p {
   max-width: 100%;
 }
 .container {
+  text-align: justify;
   display: block;
   width: 65%;
   height: auto;
