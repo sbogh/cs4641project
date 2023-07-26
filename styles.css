@@ -41,6 +41,7 @@ p {
   padding-left: 15%;
   padding-right: 15%;
   line-height: 1.5;
+  overflow-wrap: break-word;
 }
 .a {
   color: #f2f2f2;
