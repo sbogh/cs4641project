@@ -50,7 +50,7 @@ p {
   line-height: 1.5;
 }
 a, a:visited, a:hover, a:active {
-  color: inherit;
+  color: inherit !important;
 }
 .center {
   display: block;
