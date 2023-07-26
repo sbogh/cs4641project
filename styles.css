@@ -60,6 +60,11 @@ p {
   height: auto;
   max-width: 100%;
 }
+.container {
+  width: 600px;
+  flex-flow: row wrap;
+  word-break: break-word;
+}
 
 /* Add a black background color to the top navigation */
 .topnav {
